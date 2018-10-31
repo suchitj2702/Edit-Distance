@@ -1,6 +1,3 @@
-Also, write (maximum two pages) as how to execute your code and
-short comings of your code and explanation of your results.
-
 # Edit Distance Calculator
 Edit distance is one of the popular ways to measure the dissimilarities between two strings based on counting the number of operations required to transfer one string into the other string.
 
