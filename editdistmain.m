@@ -51,7 +51,7 @@ for i = 2:M + 1
     end
 end
 
-fprintf('Edit Distance = %d\n', D(M, N));
+fprintf('Edit Distance = %d\n', D(M + 1, N + 1));
 
 % backtracing from the last stored entry in I matrix to back trace the
 % operations(deletion/insertion/substitution) we took to reach it
